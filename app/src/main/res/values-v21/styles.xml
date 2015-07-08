@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Material.Pink.500">#E91E63</color>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:statusBarColor">@color/Matherial.green</item>
+        <item name="android:textColorPrimary">@color/Meterial.black</item>
+        <item name="android:colorPrimary">@color/Matherial.sGreen</item>
+        <item name="android:windowBackground">@color/Material.Grey.800</item>
+        <item name="android:navigationBarColor">@color/Matherial.gGreen</item>
+    </style>
+</resources>
